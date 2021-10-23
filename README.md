@@ -7,11 +7,11 @@
     <h6 align="center">Coding Nothing</h6>
 
 <p align="center">
-<a align="center" href="https://github.com/mdtechs">
+<a align="center" href="https://github.com/MohammadDanishJ">
             <img alt="stats card" height="200px" width="400"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=mdtechs&theme=radical">
+                src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadDanishJ&theme=radical">
             <img align="right" height="200px" width="400"
-                src="https://github-readme-stats.vercel.app/api?username=mdtechs&count_private=true&theme=radical&show_icons=true" />
+                src="https://github-readme-stats.vercel.app/api?username=MohammadDanishJ&count_private=true&theme=radical&show_icons=true" />
         </a>
 </p>
 
