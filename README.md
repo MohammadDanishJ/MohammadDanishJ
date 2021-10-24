@@ -15,9 +15,11 @@
         </a>
 </p>
 
-<p align="center"> <a href="https://twitter.com/mohammaddanishj" target="blank"><img
+<p align="center">
+     <a href="https://twitter.com/mohammaddanishj" target="blank"><img
                 src="https://img.shields.io/twitter/follow/mohammaddanishj?logo=twitter&style=for-the-badge"
-                alt="mohammaddanishj" /></a> </p>
+                alt="mohammaddanishj" /></a>
+</p>
                 
 - 📫 Mail me **mdtechs.contact@gmail.com**
     <br><br>
@@ -26,12 +28,13 @@
     <h3 align="center">Around The World</h3>
     <p align="center">
         <a href="https://twitter.com/mohammaddanishj" target="blank"><img align="center"
-                src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="mohammaddanishj" height="50"
+                src="https://img.icons8.com/fluency/48/000000/twitter-circled.png" alt="mohammaddanishj" height="50"
                 width="50" /></a> &nbsp;&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/mohammaddanishj/" target="blank"><img align="center"
-                src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="mohammaddanishj" height="50"
-                width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://instagram.com/mohammaddanishj" target="blank"><img align="center"
-                src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mohammaddanishj" height="50"
+                src="https://img.icons8.com/fluency/64/000000/instagram-new.png" alt="mohammaddanishj" height="50"
                 width="50" /></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/mohammaddanishj/" target="blank"><img align="center"
+                src="https://img.icons8.com/color/164/000000/linkedin-circled--v2.png" alt="mohammaddanishj" height="50"
+                width="50" /></a>  
     </p>
