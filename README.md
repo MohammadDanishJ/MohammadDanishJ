@@ -53,9 +53,9 @@
                                     <td colspan="3" align="center"> 
                                                 <br/>
                                                 
-[![Profile views](https://komarev.com/ghpvc/?username=MohammadDanishJ&color=brightgreen)](https://github.com/antonkomarev/github-profile-views-counter)
-[![Repos Badge](https://badges.pufler.dev/repos/MohammadDanishJ)](https://badges.pufler.dev) 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/MohammadDanishJ)](https://badges.pufler.dev)
+![Profile views](https://komarev.com/ghpvc/?username=MohammadDanishJ&color=brightgreen)
+![Repos Badge](https://badges.pufler.dev/repos/MohammadDanishJ)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/MohammadDanishJ)
                                     </td>
                         </tr>
             </tbody>
