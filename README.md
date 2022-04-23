@@ -38,3 +38,6 @@
                 src="https://img.icons8.com/color/164/000000/linkedin-circled--v2.png" alt="mohammaddanishj" height="50"
                 width="50" /></a>  
     </p>
+<p align="center">
+![](https://komarev.com/ghpvc/?username=MohammadDanishJ&color=D93A7C)
+            </p>
