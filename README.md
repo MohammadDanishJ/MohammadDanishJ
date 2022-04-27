@@ -53,8 +53,8 @@
                                     <td colspan="3" align="center"> 
                                                 <br/>
                                                 
-![Profile views](https://komarev.com/ghpvc/?username=MohammadDanishJ&color=brightgreen)
-![Repos Badge](https://badges.pufler.dev/repos/MohammadDanishJ)
+![Profile views](https://komarev.com/ghpvc/?username=MohammadDanishJ&color=brightgreen) &nbsp;
+![Repos Badge](https://badges.pufler.dev/repos/MohammadDanishJ) &nbsp;
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/MohammadDanishJ)
                                     </td>
                         </tr>
