@@ -14,13 +14,21 @@
             </a>
 </p>
 
-<p align="center">
+<p>
+            <img alt="Activity Graph for Mohammad Danish" src="https://activity-graph.herokuapp.com/graph?username=MohammadDanishJ&bg_color=0D1117&color=FD428D&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</p>     
+
+<!-- <p align="center">
             <a href="https://twitter.com/mohammaddanishj" target="blank">
                         <img src="https://img.shields.io/twitter/follow/mohammaddanishj?logo=twitter&style=for-the-badge" alt="mohammaddanishj" />
             </a>
-</p>
-                
-- 📫 Mail me **mdtechs.contact@gmail.com**
+</p> -->
+<ul>
+            <li>
+                        📫 Mail me 
+                        <a target="_blank" rel="noreferrer" href="mailto:conatct.mdtechs@gmail.com?subject=From Github.&amp;body=Hey Mohd Danish, I reached you from your GitHUb Handle.">mdtechs.contact@gmail.com</a>
+            </li
+</ul>
     <br><br>
     <hr>
 
@@ -28,7 +36,7 @@
  <table align="center">
             <tbody>
                         <tr>
-                                    <td colspan=3 align="center">
+                                    <td colspan="4" align="center">
                                                 <h2>Around The World</h2>
                                     </td>
                         </tr>
@@ -48,14 +56,17 @@
                                                             <img align="center" src="https://img.icons8.com/color/164/000000/linkedin-circled--v2.png" alt="mohammaddanishj" height="50" width="50" />
                                                 </a>
                                     </td>
+                                    <td align="center">
+                                                <a href="https://leetcode.com/MohammadDanishJ/" target="blank">
+                                                            <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="mohammaddanishj" height="50" width="50" />
+                                                </a>
+                                    </td>
                         </tr>
                         <tr>
-                                    <td colspan="3" align="center"> 
+                                    <td colspan="4" align="center"> 
                                                 <br/>
                                                 
 ![Profile views](https://komarev.com/ghpvc/?username=MohammadDanishJ&color=brightgreen) &nbsp;
-![Repos Badge](https://badges.pufler.dev/repos/MohammadDanishJ) &nbsp;
-![Commits Badge](https://badges.pufler.dev/commits/monthly/MohammadDanishJ)
                                     </td>
                         </tr>
             </tbody>
